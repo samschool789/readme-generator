@@ -2,7 +2,7 @@
  
   
   ## Description 
-  Using node.js and an NPM package called 'inquirer' I made an application that allows you to dynamically make a README
+  made an application to make README
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -12,13 +12,13 @@
   * [Questions](#questions)
   
   ## Installation 
-  VS code, terminal or gitbash to run command line
+  VS code and bash or terminal
   ## Usage 
-  Running the command line you enter 'node index.js' then follow prompts
+  use command line then follow prompts then it makes a readme file
   ## License 
   This project is license under MIT
   ## Contributing 
-  n/a
+  na
   ## Tests
   node index.js
   ## Questions
