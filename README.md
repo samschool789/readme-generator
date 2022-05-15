@@ -1,6 +1,6 @@
 # README GENERATOR
  
-  
+  ![video](./video/project-video)
   ## Description 
   made an application to make README
   ## Table of Contents
