@@ -1,8 +1,8 @@
-# f
+# ReadMe Generator
   ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
   
   ## Description 
-  f
+  I made an application using Node.js where I can input user information and then use that to gnerate
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -12,14 +12,14 @@
   * [Questions](#questions)
   
   ## Installation 
-  f
+  using command line on node js
   ## Usage 
-  f
+  use the command line to input your answers
   ## License 
   This project is license under MIT
   ## Contributing 
-  f
+  
   ## Tests
-  f
+  node index.js
   ## Questions
-  If you have any questions about this projects, please contact me directly at f. You can view more of my projects at https://github.com/f.
+  If you have any questions about this projects, please contact me directly at samschool789@gmail.com. You can view more of my projects at https://github.com/samschool789.
