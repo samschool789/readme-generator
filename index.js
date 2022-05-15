@@ -24,7 +24,7 @@ const questions = [];
             name: 'tableOfContents',
             message: 'Please provide a Table of Contents',
 
-        }
+        },
     ]);
 
 
