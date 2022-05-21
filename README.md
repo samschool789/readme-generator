@@ -1,6 +1,8 @@
 # README GENERATOR
+  
   [project link](https://samschool789.github.io/readme-generator/)
-  ![video](./video/Untitled_%20May%2015%2C%202022%205_15%20PM%20(2).webm)
+  
+  ![video](./video/readme-video.mp4)
   ## Description 
   made an application to make README
   ## Table of Contents
